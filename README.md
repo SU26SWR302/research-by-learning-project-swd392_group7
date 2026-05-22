@@ -60,7 +60,15 @@ Tài liệu **Requirement Design Specification (RDS)** chứa toàn bộ bản t
 
 ---
 
-## 💻 6. HƯỚNG DẪN KHỞI CHẠY KHỞI ĐẦU (GETTING STARTED)
+## � 6. QUẢN LÝ DỰ ÁN (PROJECT MANAGEMENT)
+
+**Jira Project:** [Real-time Online Auction System (ROAS)](https://hungthanh18122005.atlassian.net/?continue=https%3A%2F%2Fhungthanh18122005.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiNGZlNDY4Y2YxMGFhNDRhMTgyNTUzYzMzNWQwY2M1YWQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
+
+Sử dụng Jira để quản lý Sprint, Task, Bug, và tiến độ dự án.
+
+---
+
+## 💻 7. HƯỚNG DẪN KHỞI CHẠY KHỞI ĐẦU (GETTING STARTED)
 
 ```bash
 # 1. Clone repository về máy cá nhân
