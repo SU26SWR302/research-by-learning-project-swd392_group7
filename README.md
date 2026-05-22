@@ -45,6 +45,12 @@ Dự án tập trung nghiên cứu bài toán kỹ thuật nâng cao: **Xử lý
 
 ---
 
+## 🔗 4. LIÊN KẾT QUẢN LÝ DỰ ÁN (JIRA)
+
+📌 **Jira Board:** [https://quansieunhoc.atlassian.net/jira/software/projects/KAN/boards/2](https://quansieunhoc.atlassian.net/jira/software/projects/KAN/boards/2)
+
+---
+
 ## 📄 5. TÀI LIỆU ĐẶC TẢ THIẾT KẾ (RDS)
 
 Tài liệu **Requirement Design Specification (RDS)** chứa toàn bộ bản thiết kế chi tiết (Use Case, Class Diagram, Sequence Diagram, ERD...) nhằm hiện thực hóa lý thuyết môn SWD392 vào dự án.
