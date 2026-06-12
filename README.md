@@ -43,15 +43,10 @@ Dự án tập trung nghiên cứu bài toán kỹ thuật nâng cao: **Xử lý
 📚 **Danh mục tài liệu nghiên cứu (Research Papers):** `[⏳ ĐANG CẬP NHẬT]`  
 *(Danh sách 10-50 bài báo khoa học chất lượng cao từ IEEE/Springer phục vụ định hướng RBL sẽ được nhóm tổng hợp và upload vào thư mục `/research-papers` ở các Sprint tiếp theo).*
 
----
-
-## 🔗 4. LIÊN KẾT QUẢN LÝ DỰ ÁN (JIRA)
-
-📌 **Jira Board:** [https://quansieunhoc.atlassian.net/jira/software/projects/KAN/boards/2](https://quansieunhoc.atlassian.net/jira/software/projects/KAN/boards/2)
 
 ---
 
-## 📄 5. TÀI LIỆU ĐẶC TẢ THIẾT KẾ (RDS)
+## 📄 4. TÀI LIỆU ĐẶC TẢ THIẾT KẾ (RDS)
 
 Tài liệu **Requirement Design Specification (RDS)** chứa toàn bộ bản thiết kế chi tiết (Use Case, Class Diagram, Sequence Diagram, ERD...) nhằm hiện thực hóa lý thuyết môn SWD392 vào dự án.
 
@@ -60,7 +55,7 @@ Tài liệu **Requirement Design Specification (RDS)** chứa toàn bộ bản t
 
 ---
 
-## � 6. QUẢN LÝ DỰ ÁN (PROJECT MANAGEMENT)
+## � 5. QUẢN LÝ DỰ ÁN (PROJECT MANAGEMENT)
 
 **Jira Project:** [Real-time Online Auction System (ROAS)](https://hungthanh18122005.atlassian.net/?continue=https%3A%2F%2Fhungthanh18122005.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiNGZlNDY4Y2YxMGFhNDRhMTgyNTUzYzMzNWQwY2M1YWQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
 
@@ -68,7 +63,7 @@ Sử dụng Jira để quản lý Sprint, Task, Bug, và tiến độ dự án.
 
 ---
 
-## 💻 7. HƯỚNG DẪN KHỞI CHẠY KHỞI ĐẦU (GETTING STARTED)
+## 💻 6. HƯỚNG DẪN KHỞI CHẠY KHỞI ĐẦU (GETTING STARTED)
 
 ```bash
 # 1. Clone repository về máy cá nhân
